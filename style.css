@@ -1,0 +1,6 @@
+.maincontainer { background-color: lavender;
+
+}
+.col, .col-6 {
+    border: solid black 4px;
+}
